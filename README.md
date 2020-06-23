@@ -1,3 +1,7 @@
 # Coronavirus-Web-Scraper-Voice-Assistant
 
-some descriptions 
+some descriptions
+
+@ Requirements
+
+numpy
